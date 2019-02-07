@@ -399,6 +399,7 @@ body {
   font-size:16px;
   line-height:1.5rem;
   color:#343741;
+	max-width:1400px;
 }
 a, a:visited, .icon-link svg {
   color:#0E66A8;
