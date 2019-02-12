@@ -528,3 +528,5 @@ h3 {
   line-height:28px;
   font-weight:300;
 }
+
+-webkit-tap-highlight-color: rgba(0,0,0,0);
